@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack Engineer from Colombia passionate about building robust solutions & solving problems<br>🚴 Conquering mountain passes by bike on weekends <br>🇨🇴 Colombian in Colombia
+💻 Full Stack Engineer passionate about building robust solutions & solving problems<br>🚴 Conquering mountain passes by bike on weekends <br>🇨🇴 Colombian in Colombia
 
 
 ## 🌐 Socials:
